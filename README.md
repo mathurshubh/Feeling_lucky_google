@@ -2,9 +2,6 @@
 
 A python program that uses command line to open the top 5 results corresponding to a google search.
 
-# Requirements:
-
-- Python 3
 
 # Usage
 
